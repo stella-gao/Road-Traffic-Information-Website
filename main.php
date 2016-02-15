@@ -331,10 +331,8 @@ a {
 			<header class="clearfix">			
 				<h1>Dashboard<span>Traffic Information Homepage</span></h1>
 				<nav class="codrops-demos">
-					<a class="current-demo" href="operate.php">Homepage</a>
-					<a href="flow.php">flow</a>
-					<a href="frequency.php">frequency</a>
-					<a href="index4.html">Demo 4</a>
+					<a class="current-demo" href="main.php">Homepage</a>
+					
 
 				</nav>				
 			</header>
@@ -345,7 +343,7 @@ a {
 				
 						
 				<div style="float:right; width:260px; display: table-cell;">
-				<div id="header"><a href="operate.php">Choose workzone route</a></div>
+				<div id="header"><a href="main.php">Choose workzone route</a></div>
 				
 				<div id="scroller" style="width:260px" >
 					<ul id="routelist" data-role= "listview" style="list-style:none">
